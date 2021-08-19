@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @fredrickking
+- 👋 Hi, I’m Fredrick
+- im epic
 - 👀 I’m interested in html, python, js coding
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on ...
